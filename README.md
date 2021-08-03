@@ -26,6 +26,10 @@ Usage:
 
 
 Screenshots:
+**Original World**
+![Original World](https://user-images.githubusercontent.com/23505408/128089798-d6df1a6d-04e0-4a48-b5da-2bf695c51aea.png)
+
+**SLAM**
 
 ![Mapping - 1](https://user-images.githubusercontent.com/23505408/128088712-98c7b239-deb3-44ee-a066-da1b1992e683.png)
 
