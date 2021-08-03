@@ -33,5 +33,5 @@ Screenshots:
 
 ![Mapping - 3](https://user-images.githubusercontent.com/23505408/128088719-58f3d838-12a0-435e-b689-dc5da2d0b266.png)
 
-![Mapping - 4](https://user-images.githubusercontent.com/23505408/128088725-3b90132f-0dd4-47b7-8d5c-38fc327dcfd1.png)
+
 
