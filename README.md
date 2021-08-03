@@ -14,10 +14,9 @@ Usage:
 
 	**roslaunch my_robot world.launch**
 	
-	**roslaunch where_am_i amcl.launch**
+	**rosrun teleop_twist_keyboard teleop_twist_keyboard.py**
  
+	**roslaunch map_my_world mapping.launch**
 
-5) Set a navigation goal in RViZ
-
-6) The robot will use the amcl_pose to localize itself in order to reach the desired goal pose
+6) Afterwards use the keyboard to guide the robot around in the world
 
