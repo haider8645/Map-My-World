@@ -28,11 +28,8 @@
       <!-- RTAB-Map Output -->
       <remap from="grid_map" to="/map"/>
 
-      <!-- Queue Size -->
-      <param name="queue_size" type="int" value="200"/>
-
       <!-- Rate (Hz) at which new nodes are added to map -->
-      <param name="Rtabmap/DetectionRate" type="string" value="30"/>
+      <param name="Rtabmap/DetectionRate" type="string" value="1"/>
 
       <!-- 2D SLAM -->
       <param name="Reg/Force3DoF" type="string" value="true"/>
