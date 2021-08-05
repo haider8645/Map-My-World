@@ -30,6 +30,8 @@ Screenshots:
 ![Original World](https://user-images.githubusercontent.com/23505408/128089798-d6df1a6d-04e0-4a48-b5da-2bf695c51aea.png)
 
 **SLAM**
+![Mapping - 7](https://user-images.githubusercontent.com/23505408/128421857-539e1721-78a5-4996-9d86-170bab0bad31.png)
+
 ![Mapping - 5](https://user-images.githubusercontent.com/23505408/128419899-2d451546-6530-4978-9c17-0a2a8ae9375e.png)
 
 ![Mapping - 6](https://user-images.githubusercontent.com/23505408/128419898-702ff695-1f0e-42d4-a1e8-ebf1e68d7277.png)
